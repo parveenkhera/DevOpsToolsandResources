@@ -1,9 +1,10 @@
-# DevOpsToolsandResources
-Tools, Scripts and Resources for DevOps Practices
-Tools:
-Configuration Managment
- -Ansible Reference Links and Playbooks
- -Puppet Reference Links and Manifests
- -Mcollective Refence Links
- -Saltsack Refence Links
+# DevOpsTools and Resources
+## Tools for DevOps Practices
+### **Configuration Management**
+* Ansible Reference Links and Playbooks
+* Puppet Reference Links and Manifests
+* Mcollective Reference Links
+* Saltsack Reference Links
 
+## Scripts 
+## Resources
